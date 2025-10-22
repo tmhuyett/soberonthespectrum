@@ -1,15 +1,15 @@
 {
   "autism": 6,
-  "substance-use-disorder": 1,
-  "clinical-populations": 1,
-  "addiction": 1,
-  "neurodiversity": 5,
-  "research": 6,
   "substance-use": 3,
-  "systematic-review": 1,
   "mental-health": 4,
+  "research": 6,
+  "neurodiversity": 5,
   "alcohol": 1,
   "alcohol-use-disorder": 1,
   "alcohol-use": 1,
-  "sensory-processing": 1
+  "sensory-processing": 1,
+  "systematic-review": 1,
+  "substance-use-disorder": 1,
+  "clinical-populations": 1,
+  "addiction": 1
 }
